@@ -67,7 +67,7 @@ After completion:
        ↓
    Set Schedule
        ↓
-   Send Reminder
+   Send Reminder(node-schedule)
        ↓
    Perform Task
        ↓
