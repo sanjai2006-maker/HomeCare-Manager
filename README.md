@@ -58,3 +58,22 @@ After completion:
    Database	        -    MongoDB (Mongoose)
    Authentication	  -    JWT (JSON Web Token)
 
+📊 Workflow Diagram (Text Form)
+   User Login
+       ↓
+   Add Maintenance Task
+       ↓
+   Store in Database
+       ↓
+   Set Schedule
+       ↓
+   Send Reminder
+       ↓
+   Perform Task
+       ↓
+   Update Status
+       ↓
+   Save History
+       ↓
+  Display Dashboard   
+
