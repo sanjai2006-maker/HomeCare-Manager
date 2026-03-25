@@ -53,7 +53,7 @@ After completion:
 
 🚀 Final Stack Summary
 
-   Frontend	        -    React.js + Tailwind CSS
+   Frontend	        -    React.js 
    Backend	        -    Node.js + Express
    Database	        -    MongoDB (Mongoose)
    Authentication	  -    JWT (JSON Web Token)
